@@ -1,0 +1,51 @@
+.main {
+    border: 2px solid blue;
+    height: 400px;
+    width: 60%;
+    margin: 5% auto;
+    padding: 40px;
+    display: flex;
+    box-shadow: 0 0 20px blue;
+    border-radius: 10px;
+}
+
+.head {
+    font-size: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Para {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.label {
+    font-size: 17px;
+    font-weight: bold;
+}
+
+.Input {
+    margin-left: 140px;
+    width: 180px;
+    border: 2px solid black;
+    margin-top: 10px;
+    padding: 5px;
+    border-radius: 8px;
+    box-shadow: 0 5px 10px black;
+}
+
+.Image {
+    margin-left: 40px;
+}
+
+.button{
+    color: white;
+    background-color: rgb(31, 113, 172);
+    margin-left: 30%;
+    font-size: 16px;
+    cursor: pointer;
+    border: none;
+    padding: 5px 15px 7px 15px;;
+    border-radius: 10px;
+}
